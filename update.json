@@ -1,4 +1,5 @@
 {
   version: "1.0",
-  file: "https://raw.githubusercontent.com/KanzakiisYU/update-file/main/Cara%20Menginstall%20Debian%2010%20Menggunakan%20VirtualBox.png"
-} //JIKA CUMA 1 FILE AJA
+  file: "https://raw.githubusercontent.com/KanzakiisYU/update-file/main/Cara%20Menginstall%20Debian%2010%20Menggunakan%20VirtualBox.png" #URL dengan format akhiran file nya .(png)
+}
+# berlaku jika cuma 1 file
